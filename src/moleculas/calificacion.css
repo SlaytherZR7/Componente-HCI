@@ -1,0 +1,20 @@
+.containerCalificacion {
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    gap: 8px;
+}
+
+.star {
+    width: 32.07px;
+    height: 31.11px;
+    flex-shrink: 0;
+    fill: #839DD1;
+    color: #839DD1;
+    cursor: pointer;
+}
+
+.active {
+    fill: #262C40;
+    color: #262C40;
+}

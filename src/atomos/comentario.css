@@ -1,0 +1,20 @@
+.comentario {
+    font-family: 'IBM Plex Sans', sans-serif;
+    font-size: 15px;
+    width: 288px;
+    height: 70px;
+    resize: none;
+    padding: 4px;
+    border-radius: 8px;
+    border: 1px solid #262C40;
+    background: #D3E2F2;
+}
+
+.comentario::placeholder {
+    font-family: 'IBM Plex Sans', sans-serif;
+    color: rgba(0, 0, 0, 0.50);
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}

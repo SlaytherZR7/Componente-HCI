@@ -1,0 +1,36 @@
+.reseña {
+    width: fit-content;
+    /* border: 1px solid #262C40; */
+    /* box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25); */
+    display: flex;
+    padding: 8px;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 16px;
+    font-family: 'IBM Plex Sans', sans-serif;
+
+    &>div {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        gap: 64px;
+    }
+}
+
+h1 {
+    margin: 0;
+    font-size: 21px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    text-align: center;
+}
+
+h2 {
+    margin: 0;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}

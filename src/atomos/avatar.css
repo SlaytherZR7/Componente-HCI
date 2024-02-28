@@ -1,0 +1,8 @@
+.avatar {
+    display: flex;
+    width: 70px;
+    height: 70px;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50px;
+}

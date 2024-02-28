@@ -1,8 +1,6 @@
 button {
     display: flex;
-    width: 88px;
-    height: 31px;
-    padding: 8px;
+    padding: 8px 16px;
     flex-direction: column;
     justify-content: center;
     align-items: center;
